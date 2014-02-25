@@ -1,2 +1,1 @@
-
-This is JavaScript ³]­p¼Ò¦¡ notes.
+This is JavaScript patterns notes.
